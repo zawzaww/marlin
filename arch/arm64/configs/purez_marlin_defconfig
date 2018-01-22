@@ -8,6 +8,7 @@
 #
 CONFIG_LOCALVERSION="marlin:PureZ-Kernel"
 # CONFIG_LOCALVERSION_AUTO is not set
+CONFIG_SOUND_CONTROL=y
 
 
 #
