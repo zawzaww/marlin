@@ -1,11 +1,11 @@
-# Linux/arm64 3.18.108 PureZ Kernel Configuration
+# Linux/arm64 3.18.115 PureZ Kernel Configuration
 # Google Pixel/Pixel XL (marlin)
 # 
 
 #
 # PureZ Setup
 #
-CONFIG_LOCALVERSION="marlin:PureZ-Kernel-1.8"
+CONFIG_LOCALVERSION="marlin:PureZ-Kernel-1.9"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_SOUND_CONTROL=y
 CONFIG_FB_MSM_MDSS_KCAL_CTRL=y
